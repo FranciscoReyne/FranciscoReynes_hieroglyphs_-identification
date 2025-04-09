@@ -1,4 +1,4 @@
-# FranciscoReynes_hieroglyphs_-identification
+# FranciscoReynes_Hieroglyphs_IDentification
 FranciscoReynes system for the identification of hieroglyphs
 
 
